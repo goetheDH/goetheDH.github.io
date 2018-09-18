@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+body{
+  background-color: black;
+  font-family: 'Slabo 27px', serif;
+
+
+}
+
+.home{
+  background-image: url("imagenes/fondo_index.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0 200px;
+}
+
+h1{
+  font-size: 80px;
+  color:white;
+  text-align: center;
+}
+
+p{
+  font-fam;
+  color:Aquamarine;
+}
+
+h2{
+  color: Aqua;
+}
+
+.menu{
+    
+    list-style-type:none;
+    text-align:center;
+    position: sticky; /* Esto lo deja pegado */
+    top: 0; /* Arriba de todo */
+    width: 100%;
+  }
+
+  .menuItem{
+    display:inline-block;
+    font-size:20px;
+  }
