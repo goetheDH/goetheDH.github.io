@@ -1,0 +1,31 @@
+body{
+  background-color: #b8a9c9;
+}
+h1{
+  color: #622569;
+  font-size: 100px;
+  background-color:rgba(255, 255, 255, 0.65);
+}
+p{
+  color:black;
+  font-size: 50px;
+}
+.heraclea{
+background-image:url("fondolu.jpg");
+background-size:cover;
+background-position: 0px -100px;
+}
+.rea{
+  background-image:url("rea_foto.jpg");
+  background-size: cover;
+}
+.antiojo{
+  color: white;
+}
+.hola{
+  color: black;
+}
+.lass{
+  color: white;
+  font-size: 20px;
+}
