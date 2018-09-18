@@ -1,0 +1,55 @@
+h1{
+  color:rgb(255, 255, 255) ;
+  font-size: 100px;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 0px;
+
+}
+
+ul{
+  line-height: 85px;
+  text-align: right;
+  list-style: none;
+  font-size: 45px;
+}
+
+
+
+
+
+body{
+  background-image: url("./imagenes/cielo.jpg");
+  background-size: cover;
+}
+h2{
+  color: rgb(151, 174, 238) ;
+  font-size: 40px;
+}
+p{
+  color:rgb(255, 255, 255) ;
+  font-size: 30px;
+}
+
+a{
+  color:white;
+}
+
+li.activo{
+  font-weight:bold;
+}
+
+li.activo a{
+  color:darkblue;
+}
+
+
+.cajaizquierda{
+  width: 50%;
+  float: left;
+}
+
+.cajaderecha{
+  width: 50%;
+  float: right;
+}
