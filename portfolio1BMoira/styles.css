@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+h1 {
+  color: #00baff;
+  font-family: 'Pacifico', cursive;
+}
+
+h2 {
+  color: #f20d6e;
+}
+
+h3{
+  color: #40ff40;
+}
+
+ul{
+  color:  #ffff26;
+}
+
+body{
+  background-color: #ff52d4;
+
+}
+
+p{
+  color:#ffffff;
+}
+
+a{
+  color: white;
+}
+
+.lara {
+  float: right;
+  margin-left: -100px;
+}
+
+.moira {
+  float: left;
+}
+.homepage{
+  background-image: url("imagenes/homepage.jpg");
+  background-size:auto;
+
+  background-position: 0px -0px;
+}
+
+.menu{
+    display:inline-block;
+    width: 200px;
+    text-align: center;
+
+}

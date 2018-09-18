@@ -1,0 +1,60 @@
+a {
+  text-align:center;
+  font-family: cursive;
+  color: crimson;
+
+
+}
+h2{
+  font-size: 50px;
+  color:fuchsia;
+  text-align:center;
+}
+
+body {font-family:sans-serif;
+  background-color: cyan;
+
+}
+
+h1{
+  font-style:italic;
+  font-weight:bold;
+  text-decoration:underline;
+  text-align: center;
+  color: Azure;
+  font-size: 80px;
+}
+
+p{ text-align:center;
+  line-height:45px;
+  font-size: 40px;
+  font-family: 'Oleo Script', cursive;
+}
+ul{
+  line-height:30px;
+  font-family: 'Oleo Script', cursive;
+  font-size: 25px
+}
+
+img{
+  width: 180px;
+  height: 180px;
+}
+
+ul{
+  font-style: italic;
+  font-family:cursive;
+}
+
+body{
+  background-color: cyan;
+}
+
+.menu{
+display: inline-block;
+background-color:
+}
+
+li{
+  display: inline-block;
+}
