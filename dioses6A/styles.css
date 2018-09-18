@@ -1,0 +1,38 @@
+body{
+background-color: Thistle;
+}
+p{
+  text-align: left;
+}
+#kkk{
+  background-image: url("images/viento3.jpg");
+}
+#Fauna{
+  background-image: url("images/lobo.jpg");
+  background-size: cover;
+
+
+}
+#hola{
+  background-image: url("images/flores2.jpg");
+  background-size: cover;
+}
+.pio{
+font-size: 30px;
+}
+#guau{
+font-size: 45px;
+}
+#miau{
+font-size: 35px;
+}
+.muuu{
+  font-size: 25px;
+}
+h1{
+  font-size: 45px;
+}
+#dios{
+  background-image: url("images/diosa.jpg");
+  background-size: cover;
+}

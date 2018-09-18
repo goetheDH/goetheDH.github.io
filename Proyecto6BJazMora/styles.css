@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+body{
+  /* background-color: orange; */
+
+  /* background-image: url("imagenes/pastel.jpg"); */
+  background-image: url("imagenes/la.jpg");
+
+
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  font-size: 57px
+}
+
+.logo{
+
+  display: inline-block;
+  margin-left: 21%;
+}
+
+h2{
+  font-size: 25px;
+}
+.menu{
+
+    list-style-type:none;
+    text-align:center;
+    position: sticky; /* Esto lo deja pegado */
+    top: 0; /* Arriba de todo */
+    width: 100%;
+  }
+
+  .menuItem{
+    display:inline-block;
+    font-size: 30px;
+    text-transform: uppercase;
+    width: 250px;
+    font-family: 'Anton', sans-serif;
+  }
+
+a{
+  text-decoration: none;
+  color: black
+}
