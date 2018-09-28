@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo|Open+Sans+Condensed:300|Oswald|Quicksand');
+
+body {
+  background-color: rgb(241, 187, 187);
+}
+
+h1 {
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+}
+
+ul {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  font-size: 24px;
+  color: black;
+}
+
+.menu {
+  list-style-type: none;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  margin-left: -40px;
+}
+
+.menuItem {
+  display: inline-block;
+  font-size: 20px;
+  padding-left: 7%;
+  padding-right: 8%;
+  width: 100px;
+  background-color: rgb(244, 203, 203);
+}
+
+.redes {
+  text-align: right;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  text-align: justify;
+}
+
+.imgIndex {
+  width: 250px;
+  text-align: right;
+}
+
+.logo {
+  width: 150px;
+  display: block;
+  margin: 0 auto;
+}
+
+h5 {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.pages {
+  text-align: center;
+}
