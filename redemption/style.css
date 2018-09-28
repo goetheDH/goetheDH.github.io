@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "chinese";
+  src: url(fonts/chinese.ttf);
+}
+
+h1 {
+  color: WHITE;
+  font-size: 100px;
+}
+h5 {
+  font-size: 40px  
+}
+
+p {
+  color: WHITE;
+}
+
+body {
+  background-image: url("images/2761.jpg");
+  background-size: cover;
+  background-position: 0px -50px;
+  font-family: 'chinese', sans-serif;
+  font-size: 25px;
+}
