@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+
+body {
+  text-align: justify;
+  background-color: #e5b5c6;
+}
+
+h1 {
+  text-decoration: underline;
+  text-decoration-color: #e5b5c6;
+  text-align: center;
+  font-family: 'Playfair Display SC', serif;
+}
+
+h3 {
+  text-decoration: underline;
+  text-align: left;
+}
+
+.secciones {
+  display: inline-block;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  background-color: hotpink;
+}
+
+.color {
+  color: white;
+}
+
+/* https://www.colourlovers.com/palette/158589/Sexy_Men_in_Pink */
