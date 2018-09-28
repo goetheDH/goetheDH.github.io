@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Acme');
+@import url('https://fonts.googleapis.com/css?family=Acme|Permanent+Marker');
+
+body{
+  background-color: lightgreen;
+}
+
+h1{
+  font-family: fantasy;
+  text-transform: uppercase;
+  color: yellow;
+  text-decoration: underline;
+  text-decoration: wave;
+  text-decoration-color: pink;
+  background-color: lightblue;
+}
+
+p{
+font-family: 'Acme', sans-serif;
+
+
+}
+.centrada{
+  display: block;
+  margin: 0 auto;
+
+}
+
+.anton{
+  font-family: 'Anton', sans-serif;
+}
+
+.seccion{
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+}
+a{
+  color: darkgreen;
+  text-decoration: none;
+  font-family: 'Permanent Marker', cursive;
+  background-color: darkseagreen;
+}
