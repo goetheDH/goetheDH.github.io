@@ -1,0 +1,79 @@
+body{
+  background-color: black;
+  background-image: url("images/pattern.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+img{
+  display: block;
+  margin:auto;
+}
+
+h1{
+  color: rgb(3, 10, 2);
+  font-family: Copperplate Gothic Light;
+  font-size: 100px;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  text-decoration: none;
+}
+
+.Home{
+  font-size: 40px;
+  font-family: Copperplate Gothic Light;
+}
+
+h2{
+  color: rgb(46, 2, 70);
+  font-family: Trebuchet MS;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: justify;
+  text-decoration: none;
+}
+
+h3{
+  color: rgb(60, 1, 31);
+  font-family: Trebuchet MS;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: justify;
+  text-decoration: none;
+}
+
+ul{
+  color: rgb(60, 1, 31);
+  font-family: Trebuchet MS;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  text-align: justify;
+  text-decoration: none;
+}
+
+.menu{
+    background-color:rgba(0, 0, 0, 0.68);
+    list-style-type:none;
+    text-align:center;
+    position: sticky;
+    top: 0;
+    width: 100%;
+  }
+
+  .menuItem{
+    display:inline-block;
+    font-size:40px;
+    margin-left: 30px;
+
+
+  }
+
+a{
+  color: white;
+  font-family: Trebuchet MS;
+  text-decoration: none;
