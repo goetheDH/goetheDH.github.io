@@ -1,0 +1,64 @@
+/*
+rojo #da5047
+rojon oscuro #822720
+negro #030104
+gris #abadbf
+azul: value":"#0648a9
+azul oscu =#021656
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Anton|Baloo+Bhai');
+
+h1{
+  font-family: 'Anton', sans-serif;
+  color: #da5047;
+  font-size: 60px;
+}
+h2{
+  color: #822720;
+}
+
+body{
+  background-color: #021656  ;
+  font-family: 'Baloo Bhai', cursive;
+}
+
+ul{
+  color: inherit;
+  font-size: 30px;
+}
+
+p{
+  color: #822720;
+}
+
+a{
+  color: red;
+}
+.fondo{
+  background-image: url("images/imagenparafondo2.jpg");
+background-size: cover;
+}
+
+ol{
+  color:#822720; 
+}
+
+.menu{
+    background-color:orange;
+    list-style-type:none;
+    text-align:center;
+    position: sticky;
+    top: 0;
+    width: 100%;
+  }
+
+  .menuItem{
+    display:inline-block;
+    font-size:20px;
+  }
+
+  li.menuItem:hover{
+      background-color:green;
+      font-weight:bold;
+  }
